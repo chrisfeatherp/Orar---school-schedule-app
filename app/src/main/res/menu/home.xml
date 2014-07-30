@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:liisorar="http://schemas.android.com/apk/res-auto" >
+
+
+    <item android:id="@+id/action_add_event"
+        android:icon="@drawable/ic_action_new"
+        android:title="@string/action_add_event"
+        liisorar:showAsAction="ifRoom" />
+
+    <item android:id="@+id/action_info"
+        android:title="@string/action_info"
+        liisorar:showAsAction="never" />
+</menu>

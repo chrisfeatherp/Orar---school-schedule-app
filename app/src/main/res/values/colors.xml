@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="text_color_1">#ff000000</color>
+    <color name="text_color_2">#77000000</color>
+    <color name="text_color_3">#33000000</color>
+
+    <color name="accent_1">#ff4d90fe</color>
+    <color name="get_class_bg">#FFFFFFFF</color>
+</resources>

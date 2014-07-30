@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Orar</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+
+    <string name="action_add_event">Adauga</string>
+    <string name="action_info">Informatii</string>
+    <!--  -->
+    <string name="title_orar">ORAR</string>
+    <string name="title_evenimente">EVENIMENTE</string>
+    <string name="title_home_activity">ORAR Liis</string>
+    <string name="title_activity_add_event">ADAUGA EVENIMENT</string>
+
+
+    <string name="add_event_name">Nume</string>
+    <string name="add_event_date">Data</string>
+    <string name="add_event_day">Ziua</string>
+    <string name="add_event_time">Ora</string>
+    <string name="add_event_submit">ADAUGA</string>
+
+    <string name="no_data">Pentru a pute viziona orarul conecteaza-te la internet si apasa butonul "SYNC".</string>
+    <string name="sync">SYNC</string>
+
+
+</resources>
